@@ -10,8 +10,8 @@
 Python, Pandas, предобработка данных, визуализация данных, Plotly,  Seaborn,  когортный анализ, продуктовые метрики, юнит-экономика.
 
 #### В проекте использованы следующие библиотеки:
-  - pandas as pd
-  - numpy as np
+  - pandas 
+  - numpy
   - matplotlib
   - seaborn
   - plotly
